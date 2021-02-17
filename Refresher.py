@@ -27,6 +27,7 @@ while True:
         print("Sorry I don't understand")
 
 #CARGAME
+print('welcome to shamrock')
 
 
 
